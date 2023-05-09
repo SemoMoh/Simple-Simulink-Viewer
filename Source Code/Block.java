@@ -195,7 +195,7 @@ public class Block {
             imageView.setLayoutX(this.left-88);
         }else {
             imageView.setScaleX(0.42);
-            imageView.setScaleY(0.41);
+            imageView.setScaleY(0.42);
             imageView.setLayoutY(this.top-20);
             imageView.setLayoutX(this.left-20);
         }
