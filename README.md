@@ -4,7 +4,7 @@
 <body>
   <h1>YouTube Links</h1>
   <ul>
-    <li><a href="https://youtu.be/7MGTgs8iuQY" size="10px">30 sec. video</a></li>
+    <li><a href="https://youtu.be/7MGTgs8iuQY" size="500px">30 sec. video</a></li>
   </ul>
 </body>
 
