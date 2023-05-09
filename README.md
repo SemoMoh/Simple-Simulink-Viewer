@@ -1,6 +1,6 @@
 <h1>YouTube Links</h1>
 <ul>
-  <li><a href="https://youtu.be/7MGTgs8iuQY" style="font-size: 20em;">30 sec. video</a></li>
+  <li><a href="https://youtu.be/7MGTgs8iuQY">30 sec. video</a></li>
 </ul>
 
 <h1>Simulink MDL Viewer</h1>
