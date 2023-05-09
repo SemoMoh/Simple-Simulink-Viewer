@@ -6,10 +6,6 @@
 <ul>
   <li>Load and parse Simulink MDL files</li>
   <li>Display the Simulink model in a hierarchical structure</li>
-  <li>Provide real-time visualization of changes made to the model (optional)</li>
-  <li>Allow users to modify the model interactively (optional)</li>
-  <li>Provide a user-friendly interface for navigating and exploring the model (optional)</li>
-  <li>Ability to run simulations for simple systems using Discrete Fixed step solver (optional)</li>
 </ul>
 
 <h2>Usage</h2>
