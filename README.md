@@ -35,6 +35,12 @@
 
 <h2>GUI Window</h2>
 
+<div align="center">
+  <a href="https://youtu.be/7MGTgs8iuQY" target="_blank">
+    <img src="https://drive.google.com/uc?export=view&id=1c8NAsIQDqli9XKCfdJvWA36UD1EpfnCb" alt="Image Description">
+  </a>
+</div>
+
 <style>
   /* Center the image horizontally */
   img {
@@ -42,9 +48,3 @@
     margin: 0 auto;
   }
 </style>
-
-<div style="text-align: center;">
-  <a href="https://youtu.be/7MGTgs8iuQY" target="_blank">
-    <img src="https://drive.google.com/uc?export=view&id=1c8NAsIQDqli9XKCfdJvWA36UD1EpfnCb" alt="Image Description">
-  </a>
-</div>
