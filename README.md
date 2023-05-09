@@ -2,6 +2,13 @@
 
 <p>Simulink MDL Viewer is a software tool that provides a user-friendly interface for reading Simulink MDL files using a Java-based graphical user interface (GUI). The tool allows users to load Simulink MDL files and view their contents in a hierarchical structure, navigate through the model components, and see their properties and connections. It also enables users to interactively modify the model and visualize the changes in real-time, and run simulations for simple systems using a Discrete Fixed step solver.</p>
 
+<h2>Tools and Technologies Used</h2>
+<ul>
+  <li>Java Development Kit (JDK) 1.8</li>
+  <li>Any integrated development environment (IDE) that supports Java, such as Eclipse or IntelliJ IDEA</li>
+  <li><a href="https://www.java.com/en/"><img src="https://www.svgrepo.com/download/184143/java.svg" width="48" height="48"/> Java Development Kit (JDK) 1.8</a></li>
+</ul>
+
 <h2>Features</h2>
 <ul>
   <li>Load and parse Simulink MDL files</li>
