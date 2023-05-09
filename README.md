@@ -1,8 +1,29 @@
-# Simple-Simulink-Viewer
-## Note: we used JDK 1.8 to build this project
-## The Repo has  
-- Executables: contains .jar file + batch file to run .jar file
-- Simulink Viewer.zip: full project ZIP file
-- Source Code: contains all java files the team worked on each is uploaded by it's creator
+<h1>Simulink MDL Viewer</h1>
+
+<p>Simulink MDL Viewer is a software tool that provides a user-friendly interface for reading Simulink MDL files using a Java-based graphical user interface (GUI). The tool allows users to load Simulink MDL files and view their contents in a hierarchical structure, navigate through the model components, and see their properties and connections. It also enables users to interactively modify the model and visualize the changes in real-time, and run simulations for simple systems using a Discrete Fixed step solver.</p>
+
+<h2>Features</h2>
+<ul>
+  <li>Load and parse Simulink MDL files</li>
+  <li>Display the Simulink model in a hierarchical structure</li>
+  <li>Provide real-time visualization of changes made to the model (optional)</li>
+  <li>Allow users to modify the model interactively (optional)</li>
+  <li>Provide a user-friendly interface for navigating and exploring the model (optional)</li>
+  <li>Ability to run simulations for simple systems using Discrete Fixed step solver (optional)</li>
+</ul>
+
+<h2>Usage</h2>
+<ol>
+  <li>Clone this repository</li>
+  <li>Build the project using the provided build script</li>
+  <li>Launch the application and open a Simulink MDL file</li>
+  <li>Explore the model and make modifications if desired</li>
+</ol>
+
+<h2>Contributing</h2>
+<p>Contributions are welcome! If you find a bug or have an idea for a new feature, please create an issue in the repository. If you would like to contribute code, please fork the repository and submit a pull request.</p>
+
+<h2>License</h2>
+<p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
 
 ## YouTube Link: [*30 sec. video*](https://youtu.be/7MGTgs8iuQY)
