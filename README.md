@@ -1,5 +1,5 @@
 # YouTube Links
-- [30 sec. video](https://youtu.be/7MGTgs8iuQY)
+# - [30 sec. video](https://youtu.be/7MGTgs8iuQY)
 
 <h1>Simulink MDL Viewer</h1>
 
