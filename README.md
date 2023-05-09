@@ -1,13 +1,10 @@
-ul {
-  font-size: 1.5em;
-}
 <head>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <h1>YouTube Links</h1>
   <ul>
-    <li><a href="https://youtu.be/7MGTgs8iuQY">30 sec. video</a></li>
+    <li><a href="https://youtu.be/7MGTgs8iuQY" size="10px">30 sec. video</a></li>
   </ul>
 </body>
 
