@@ -1,5 +1,5 @@
 <h1>YouTube Links</h1>
-<ul style="font-size: 3em;">
+<ul style="font-size: 3em">
   <li><a href="https://youtu.be/7MGTgs8iuQY">30 sec. video</a></li>
 </ul>
 
@@ -13,7 +13,7 @@
   <li>Any integrated development environment (IDE) that supports Java, such as Eclipse or IntelliJ IDEA</li>
   <li><a href="https://www.java.com/en/"><img src="https://www.svgrepo.com/download/184143/java.svg" alt="JAVA ICON" width="48" height="48"/> Java | Oracle</a></li>
   <li><a href="https://www.oracle.com/eg/java/technologies/javase/javase8-archive-downloads.html"><img src="https://www.opencodez.com/wp-content/uploads/2018/02/Java-8-using-Examples.png" alt="JDK 1.8" width="48" height="48"/> Java Development Kit (JDK) 1.8</a></li>
-  <li><a href="https://www.jetbrains.com/idea/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cI8ZrwyEnvnpV-4OsZ-xuhPQEVG6nbrX9Siw8XTu-BKmYwI8SEc86sAL8kyR0K4-AKg&usqp=CAU" alt="INTELLIJ IDE" width="48" height="48"/> INTELLIJ IDEA</a></li>
+  <li><a href="https://www.jetbrains.com/idea/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzGU4eeIzhfRKcJDmj_VHL-oAaFNfmDfRXJIJN2ai5hAmWbLXL5Sycl4Wi6xZApPAhT9k&usqp=CAU" alt="INTELLIJ IDE" width="48" height="48"/> INTELLIJ IDEA</a></li>
 </ul>
 
 <h2>Features</h2>
