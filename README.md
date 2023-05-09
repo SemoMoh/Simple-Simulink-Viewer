@@ -6,7 +6,8 @@
 <ul>
   <li>Java Development Kit (JDK) 1.8</li>
   <li>Any integrated development environment (IDE) that supports Java, such as Eclipse or IntelliJ IDEA</li>
-  <li><a href="https://www.java.com/en/"><img src="https://www.svgrepo.com/download/184143/java.svg" width="48" height="48"/> Java Development Kit (JDK) 1.8</a></li>
+  <li><a href="https://www.java.com/en/"><img src="https://www.svgrepo.com/download/184143/java.svg" alt="JAVA ICON" width="48" height="48"/> Java | Oracle</a></li>
+  <li><a href="https://www.oracle.com/eg/java/technologies/javase/javase8-archive-downloads.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Blue_JDK_1.8%2B_Shield_Badge.svg/2560px-Blue_JDK_1.8%2B_Shield_Badge.svg.png" alt="JDK 1.8" width="48" height="48"/> Java Development Kit (JDK) 1.8</a></li>
 </ul>
 
 <h2>Features</h2>
