@@ -33,6 +33,18 @@
 <h2>License</h2>
 <p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
 
-<a href="https://youtu.be/7MGTgs8iuQY" target="_blank">
-  <img src="https://drive.google.com/uc?export=view&id=1c8NAsIQDqli9XKCfdJvWA36UD1EpfnCb" alt="Image Description">
-</a>
+<h2>GUI Window</h2>
+
+<style>
+  /* Center the image horizontally */
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+</style>
+
+<div style="text-align: center;">
+  <a href="https://youtu.be/7MGTgs8iuQY" target="_blank">
+    <img src="https://drive.google.com/uc?export=view&id=1c8NAsIQDqli9XKCfdJvWA36UD1EpfnCb" alt="Image Description">
+  </a>
+</div>
