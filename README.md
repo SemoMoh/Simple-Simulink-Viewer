@@ -5,4 +5,4 @@
 - Simulink Viewer.zip: full project ZIP file
 - Source Code: contains all java files the team worked on each is uploaded by it's creator
 
-## YouTube Link: [*30 sec. video*]([https://youtube.com/shorts/ESck_PEjido?feature=share](https://youtu.be/7MGTgs8iuQY))
+## YouTube Link: [*30 sec. video*](https://youtu.be/7MGTgs8iuQY)
