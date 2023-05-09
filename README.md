@@ -1,4 +1,4 @@
-<h1>YouTube Link:</h1>
+<h1>YouTube Links</h1>
 <ul>
   <li><a href="https://youtu.be/7MGTgs8iuQY" style="font-size: 2.5em;">30 sec. video</a></li>
 </ul>
