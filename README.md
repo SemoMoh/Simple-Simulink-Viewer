@@ -44,6 +44,6 @@
   </a>
 
   <a href="https://youtu.be/7MGTgs8iuQY" target="_blank">
-    <img src="  https://drive.google.com/file/d/1c8NAsIQDqli9XKCfdJvWA36UD1EpfnCb/view?usp=share_link" alt="Image Description">
+    <img src="https://drive.google.com/file/d/1CEIu6hcGbXr0o7_RxLgC6xbY9weLo3kr/view?usp=drivesdk" alt="Image Description">
   </a>
 </div>
