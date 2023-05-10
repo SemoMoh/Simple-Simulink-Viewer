@@ -1,4 +1,7 @@
-# YouTube Links: [Watch our project in action: A live demo](https://youtu.be/7MGTgs8iuQY)
+# YouTube Links: 
+##  [Watch our project in action: A live demo](https://youtu.be/7MGTgs8iuQY)
+##  [Watch our project in action: A wide look into the project](https://youtu.be/ijMiDv0X1Qo)
+
 
 <h1>Simulink MDL Viewer</h1>
 
