@@ -43,7 +43,7 @@
     <img src="https://drive.google.com/uc?export=view&id=1c8NAsIQDqli9XKCfdJvWA36UD1EpfnCb" alt="Image Description">
   </a>
 
-  <a href="https://youtu.be/7MGTgs8iuQY" target="_blank">
-    <img src="https://drive.google.com/file/d/1CEIu6hcGbXr0o7_RxLgC6xbY9weLo3kr/view?usp=drivesdk" alt="Image Description">
+  <a href="https://youtu.be/ijMiDv0X1Qo" target="_blank">
+    <img src="https://drive.google.com/uc?export=view&id=1CEIu6hcGbXr0o7_RxLgC6xbY9weLo3kr" alt="Image Description">
   </a>
 </div>
