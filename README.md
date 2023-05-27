@@ -5,8 +5,8 @@
 ##  [Watch our project in action: A wide look into the project](https://youtu.be/ijMiDv0X1Qo)
 
 ## Team Member
-|Name|ID
---------
+|Name|ID|
+|----|---|
 |Mahmoud Abdelraouf Mahmoud|2001436|
 
 <h1>Simulink MDL Viewer</h1>
